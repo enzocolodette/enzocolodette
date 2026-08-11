@@ -55,10 +55,3 @@ Me chamo Enzo Colodette, tenho 21 anos, sou um estudante de Ciência da Computa�
 
 <br/>
 <br/>
-
-## 📊 Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzocolodette&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&card_width=400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzocolodette&layout=compact&theme=vision-friendly-dark&&hide=CMAke,Objective-C&card_width=300"/>
-</div>
-
