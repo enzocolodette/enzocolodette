@@ -11,7 +11,7 @@ Estudante de **Ciência da Computação** na **UFF (Universidade Federal Flumine
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/enzocolodette/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ecolodette@gmail.com">
