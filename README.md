@@ -1,57 +1,29 @@
-#  Enzo Colodette
+# Olá, eu sou o Enzo Colodette 👋
 
-Me chamo Enzo Colodette, tenho 21 anos, sou um estudante de Ciência da Computação na UFF de Rio das Ostras. Desde pequeno sou um estusiasta de tecnologia e estou nessa jornada de conhecimento para me tornar um programador.
+Estudante de **Ciência da Computação** na **UFF (Universidade Federal Fluminense)**, sempre explorando novas tecnologias e colocando a mão na massa em projetos de faculdade e pessoais.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ecolodette@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EnzoColodette)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-colodette-412707260/)
+## 🚀 Linguagens e tecnologias
 
-## 💻 Linguagens e Tecnologias:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,mysql,html,css,js,ts,nodejs" alt="Linguagens e tecnologias que utilizo" />
+</p>
 
-<img
-    align="left"
-    alt="C"
-    titile="C"
-    width="30px"
-    style="padding-rigth: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-/>
+## 📫 Contato
 
-<img
-    align="left"
-    alt="HTML"
-    titile="HTML"
-    width="30px"
-    style="padding-rigth: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ecolodette@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://t.me/EnzoColodette" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
-<img
-    align="left"
-    alt="CSS"
-    titile="CSS"
-    width="30px"
-    style="padding-rigth: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
+---
 
-<img
-    align="left"
-    alt="JavaScript"
-    titile="JavaScript"
-    width="30px"
-    style="padding-rigth: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-
-<img
-    align="left"
-    alt="Python"
-    titile="Python"
-    width="30px"
-    style="padding-rigth: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
-<br/>
-<br/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=enzocolodette&show_icons=true&theme=default" alt="Estatísticas do GitHub de Enzo Colodette" height="165" />
+</p>
